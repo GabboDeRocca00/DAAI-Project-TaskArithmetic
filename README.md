@@ -5,7 +5,7 @@ This repository contains all the necessary files to reproduce the results presen
 ## Contents
 
 - **DAAI Project V11.ipynb**: This Jupyter Notebook contains the bulk of the code and is intended to be used on Google Colab.
-- **DAAI Project Folder Structure**: This folder includes subfolders, data, and the structure used to carry out the project.
+- **DAAI Project Folder Structure**: This folder includes subfolders, and the structure used to carry out the project.
 
 ## How to Use These Files
 
