@@ -1,7 +1,7 @@
 # DAAI Project Repository
 
 This repository contains all the necessary files to reproduce the results presented in the project report.
-On the other hand the results of the simulations are reported [here](https://docs.google.com/spreadsheets/d/1m7Q6WQJnpsBzDBqy_JIpK8Lfb3S7GBFHaW5HsQ7hZmQ/edit?gid=0#gid=0).
+On the other hand, the results of the simulations are reported [here](https://docs.google.com/spreadsheets/d/1m7Q6WQJnpsBzDBqy_JIpK8Lfb3S7GBFHaW5HsQ7hZmQ/edit?gid=0#gid=0).
 
 ## Contents
 
